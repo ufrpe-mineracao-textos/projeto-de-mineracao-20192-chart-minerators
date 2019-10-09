@@ -1,0 +1,4 @@
+imagem,legenda
+sf01.png#0	sobe,sobe,sobe
+sf02.svg#0	sobe,desce,mantem,sobe,desce,mantem,sobe,sobe
+sf03.png#0	sobe,sobe,sobe,sobe,sobe,sobe

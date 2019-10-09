@@ -1,0 +1,4 @@
+imagem,legenda
+h01.png#0	sobe,sobe,desce,sobe,desce,desce,sobre,sobe,sobe,desce,desce
+h02.png#1	sobe,desce,sobe,desce,sobe,desce,desce,desce,sobe,desce,sobe 
+h03.png#2	sobe,dece,sobe,sobe,desce,desce,sobe,desce,sobe,sobe
