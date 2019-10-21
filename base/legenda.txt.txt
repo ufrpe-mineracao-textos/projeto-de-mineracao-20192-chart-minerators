@@ -1,0 +1,21 @@
+imagem#legenda#Tipo
+./Peppe/imagem0#Figura 1: Consumo residencial de energia da meia noite atá às oito horas da manhã em um dia atípico#Energia Eletrica
+./Peppe/imagem1#Figura 1: Crescimento relativo do consumo energético no Cenário Alternativo (C2014=1)#Emissão de CO2
+./Peppe/imagem2#Gráfico mostrando aendidas e o total de transações#Mercado Financeiro
+./Peppe/imagem3#Gráfico mostrando aendidas e o total de transações#Mercado Financeiro
+./Peppe/imagem4#Gráfico mostrando aendidas e o total de transações#Mercado Financeiro
+./Peppe/imagem5#Gráfico mostrando aendidas e o total de transações#Mercado Financeiro
+./Peppe/imagem6#Gráfico mostrando aendidas e o total de transações#Mercado Financeiro
+./Peppe/imagem7#Gráfico mostrando aendidas e o total de transações#Mercado Financeiro
+./Peppe/imagem8#Gráfico mostrando aendidas e o total de transações#Mercado Financeiro
+./Peppe/imagem9#Gráfico mostrando aendidas e o total de transações#Mercado Financeiro
+./Peppe/imagem10#Gráfico mostrando aendidas e o total de transações#Mercado Financeiro
+./Peppe/imagem11#Gráfico mostrando aendidas e o total de transações#Mercado Financeiro
+./Peppe/imagem12#Gráfico mostrando aendidas e o total de transações#Mercado Financeiro
+./Peppe/imagem13#Gráfico mostrando aendidas e o total de transações#Mercado Financeiro
+./Peppe/imagem14#Gráfico mostrando aendidas e o total de transações#Mercado Financeiro
+./Peppe/imagem15#Gráfico mostrando aendidas e o total de transações#Mercado Financeiro
+./Peppe/imagem16#Gráfico mostrando aendidas e o total de transações#Mercado Financeiro
+./Peppe/imagem17#Gráfico mostrando aendidas e o total de transações#Mercado Financeiro
+./Peppe/imagem18#Gráfico mostrando aendidas e o total de transações#Mercado Financeiro
+./Peppe/imagem19#Gráfico mostrando aendidas e o total de transações#Mercado Financeiro
