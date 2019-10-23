@@ -1,7 +1,7 @@
 imagem#legenda#Tipo
-./Peppe/imagem0#Figura 1: Consumo residencial de energia da meia noite atá às oito horas da manhã em um dia atípico#Energia Eletrica
-./Peppe/imagem1#Figura 1: Crescimento relativo do consumo energético no Cenário Alternativo (C2014=1)#Emissão de CO2
-./Peppe/imagem2#Gráfico mostrando aendidas e o total de transações#Mercado Financeiro
+./Peppe/imagem0#Na figura anterior temos o gasto da empresa XY, que saiu da empresa mais valiosa para a empresa que mais teve gasto e 10 anos depois volta ao patamar de empresa mais valiosa novamente. No inicio dos anos 2000 a empresa XY tinha o capital especulado de aproximadamente U$600 bilhões, contudo apos 2 anos de roubos a empresa chegou ao valor de -U$800 bilhões e seus anos seguintes, até 2008, foram uma tentativa de manter a empresa viva e voltar ao patamar que tinha. Apenas em 2009 que esta voltou ao pódio sendo a empresa mais valiosa novamente tendo seu valor de U$500 bilhões  #Mercado financeiro
+./Peppe/imagem1#Figura 1: Consumo energetico de cada dia da semana de um escritório em um dia atípico. É possiver verificar que a segunda possui o menor consumo do dia. Tendo um crescente consumo no decorrer da semana até a quinta em que encontra o pico máximo de 700 unidades de consumo e decaindo paraaproximadamente 300 na sexta e sabado. #Consumo de energia eletrica
+./Peppe/imagem2#A figura anterior mostra e compara o uso das letras do idioma Dothraki. Nele podemos veriricar que a letra 'e' possui um grande uso no idioma com mais de 1050 usos, considerando o texto que foi retirado. Em ultimo lugar temos a letra 'd'   que foi utilizado apenas 800 vezes. Da letra a até a letra c temos um decrescimento do uso de 'a' para 'b' e um crescimento para 'c' chegando a aproximadamente 920 vezes utilizadas#Alfabeto
 ./Peppe/imagem3#Gráfico mostrando aendidas e o total de transações#Mercado Financeiro
 ./Peppe/imagem4#O grafico representa a quantidade e as letras encontradas em uma base de dados de libras. Percebemos que da letra c para a letra e temos um decrescimento linear e quanto as três primeiras letras do alfabetos conseguimos um crescimento#Base de dados
 ./Peppe/imagem5#Gráfico mostrando aendidas e o total de transações#Mercado Financeiro
@@ -9,8 +9,7 @@ imagem#legenda#Tipo
 ./Peppe/imagem7#Gráfico mostrando aendidas e o total de transações#Mercado Financeiro
 ./Peppe/imagem8#Gráfico mostrando aendidas e o total de transações#Mercado Financeiro
 ./Peppe/imagem9#O grafico mostra o consumo do combustivel fossivel do ano 2000 até o ano 2010.  Nele podemos ver que entre os anos 2000 e 2003 teve uma queda em seu consumo, porém nos anos seguintes chegando até meados de 2005 quando houve um aumento no fornecimento chegando a mais de 80% do consumo total de energia. Contudo após 2006 o consumo tornou-se instavel aumentando entre os anos pares e impares e diminuindo entre os anos impares e pares. Essa variação seu deu à instabilidade das politicas de facilitação ao uso de fontes energeticas alternativas#Consumo Energetico./Peppe/imagem10#Gráfico mostrando aendidas e o total de transações#Mercado Financeiro
-./Peppe/imagem11#Gráfico mostrando aendidas e o total de transações#Mercado Financeiro
-./Peppe/imagem12#Gráfico mostrando aendidas e o total de transações#Mercado Financeiro
+./Peppe/imagem11#Figura 4: Consumo residencial de o de cada dia da semana. É possiver verificar que a segunda possui o menor consumo do dia. Tendo um crescente consumo no decorrer da semana até a quinta em que encontra o pico máximo de 700 unidades de consumo e decaindo paraaproximadamente 300 na sexta e sabado. #Consumo de energia eletrica./Peppe/imagem12#Gráfico mostrando aendidas e o total de transações#Mercado Financeiro
 ./Peppe/imagem13#Gráfico mostrando aendidas e o total de transações#Mercado Financeiro
 ./Peppe/imagem14#Gráfico mostrando aendidas e o total de transações#Mercado Financeiro
 ./Peppe/imagem15#Gráfico mostrando aendidas e o total de transações#Mercado Financeiro
