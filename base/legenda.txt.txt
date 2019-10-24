@@ -26,9 +26,18 @@ imagem#legenda#Tipo
 ./Peppe/imagem24#./Peppe/imagem24#Grafico começou domingo com 460 unidades, subindo para 600 unidades na segunda, indo para 540 unidades na terça e caindo ainda mais para 420 na quarta. Na quinta houve um acrescimo para 500 e voltando a descer na sexta para 490 e terminando a semana com mais de 560.#Generico
 ./Peppe/imagem25#Quantidades de acessos a um site por topicos. Topico 1 tendo 500 acessos, topico 2 teve um crescimento para 900, tendo uma queda minima no topico 3 para 850 e voltando para 900 no topico e subindo ainda mais no topico 4 para 900 e no topico 5 teve um aumento leve para 910, contudo no topico 6 houve uma queda drastica para aproximadamente 700, caindo novamente no topico 7 para 500 e subindo muito no topico 8 para aproximadamente 1200 e mantendo-se instaveis caindo no topico 9 para 800 e subindo pra 850 no topico 10.#Sites
 ./Peppe/imagem26#Grafico começou com a letra 'a' tendo 200 unidades, subindo para 600 unidades na letra 'b', indo para -200 unidades na letra 'c'  e caindo ainda mais para -600 na letra 'd'. E finalmente na letra 'e' houve um acrescimo, saindo dos valores negativos, porem se mantendo em 0.#Generico
-./Peppe/imagem27#Consumo energetico de cada dia da semana de um escritório em um dia atípico. É possiver verificar que a segunda possui o menor consumo do dia com 20unidades de consumo. Tendo um crescente consumo no decorrer da semana, terça com 170 unidades de consumo, quarta com 150 unidades de consumo até a quinta em que encontra o pico máximo de 300 unidades de consumo e decaindo paraa proximadamente 200 na sexta e sabado cai novamente para 150. #Consumo de energia eletrica
-./Peppe/imagem28##Mercado Financeiro
-./Peppe/imagem29##Mercado Financeiro
-./Peppe/imagem30##Mercado Financeiro
-./Peppe/imagem29##Mercado Financeiro
-./Peppe/imagem30##Mercado Financeiro
+./Peppe/imagem27#Niveis de sincronização da criança 3 com o eva unidade 1 durande a semana. No domingo, primeiro dia de contato com a unidade, o nivel foi maximo chegando a 300 pontos, contudo no dia seguinte houve uma queda para proximo de 0. Subindo para 180 pontos na terça e caindo um pouco para 150 na quarta. Quinta feira novamente houve um pico para o maximo de 300 e caindo sequencialmente na sexta e no sabado para 200 e 150 respectivamente.#NERV
+./Peppe/imagem28#Grafico de chapeu de bruxo. O ponto 'a' possui valor de 240, ponto 'b' valor de 260, ponto 'c', o pico do chapeu, com valor de 360 e o ponto 'd' 250 e 'e' com os mesmos 250.#Grafico
+./Peppe/imagem29#Grafico começou com a letra 'a' tendo 400 unidades, subindo para 600 unidades na letra 'b', indo para -300 unidades na letra 'c'  e caindo ainda mais para -400 na letra 'd'. E finalmente na letra 'e' houve um acrescimo, saindo dos valores negativos, porem se mantendo em 300.#Generico
+./Peppe/imagem30#Pesos de sincronização da criança 1 com o eva unidade 0 durande um ano. Sendo o somatorio. No primeiro semestre tivemos janeiro com 0, fevereiro com 100, março caiu para -500, abril sibiu para 0, e maio subiu novamente para mais de 1000, caindo em junho para -600. Finalmente no segundo semestre tivemos uma subida para -500 em julho, caindo em agosto para -1000 e zerando em setembro, porem nos dois meses seguintes houve uma queda para -500 e -550, respectivamente. Fechando o ano com um valor de 600 pontos.#NERV
+./Peppe/imagem31
+./Peppe/imagem32
+./Peppe/imagem33
+./Peppe/imagem34
+./Peppe/imagem35
+./Peppe/imagem36
+./Peppe/imagem37
+./Peppe/imagem38
+./Peppe/imagem39
+./Peppe/imagem40
+./Peppe/imagem41#Consumo energetico de cada dia da semana de um escritório em um dia atípico. A semana começa com um consumo baixo tendo o domingo 400 pontos. A segunda teve um ponto maximo de 1000pontos, caindo na terça para 600 pontos e subindo para 900 pontos na quarta. A quinta estava instavel como os outros dias e houve uma queda para 600pontos aindo novamente na sexta para 400 e no sabado para 200 pontos de consumo #Consumo de energia eletrica
