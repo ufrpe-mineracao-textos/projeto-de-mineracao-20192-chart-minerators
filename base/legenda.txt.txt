@@ -9,7 +9,7 @@ imagem#legenda#Tipo
 ./Peppe/imagem7#Figura 1: Consumo energetico dos meses no ano de 2030 do estado de pernambuco, sendo os dados numericos em milhões. É possiver verificar que a segunda possui o menor consumo do dia. Tendo um crescente consumo no decorrer da semana até a quinta em que encontra o pico máximo de 700 unidades de consumo e decaindo paraaproximadamente 300 na sexta e sabado. #Consumo de energia eletrica
 ./Peppe/imagem8#No grafico vemos uma variação no consumo mensal no ano de 2019 de um estudante. É verificado que de javeiro a março foi ocorrendo uma economia nos gatos chegando a um gasto minimo de R$200, porém no mes seguinte ouve um pico máximo de aproximadamente R$1000, tendo uma variação de gastos, contudo tendo mantendo-se entre R$800 e R$1000 até o mês de junho. Os gastos cairam e julho, voltando a subir em agosto a um valor de R$800 caindo novamente em setembro para R$400 e voltando a subir nos meses seguintes chegando em dezembro, novamente, no máximo de R$1000.#Financeiro
 ./Peppe/imagem9#O grafico mostra o consumo do combustivel fossivel do ano 2000 até o ano 2010.  Nele podemos ver que entre os anos 2000 e 2003 teve uma queda em seu consumo, porém nos anos seguintes chegando até meados de 2005 quando houve um aumento no fornecimento chegando a mais de 80% do consumo total de energia. Contudo após 2006 o consumo tornou-se instavel aumentando entre os anos pares e impares e diminuindo entre os anos impares e pares. Essa variação seu deu à instabilidade das politicas de facilitação ao uso de fontes energeticas alternativas#Consumo Energetico./Peppe/imagem10#Gráfico mostrando aendidas e o total de transações#Mercado Financeiro
-./Peppe/imagem10#Figura 5: Ao comparar um algorimo em 5 bases diferentes verificamos que a base 'b' nos deu o valor de menor efiencia do algoritimo chegando a 0. Enquando na base 'a' o algoritmo conseguiu seu máximo de 1000. para as outras bases, 'c','d' e 'e'#Analise de algoritmos os valores mantiveram-se proximos tendo o maximo em 400 e o minimo em 300 para 'c' e 'd', respectivamente.
+./Peppe/imagem10#Figura 5: Ao comparar um algorimo em 5 bases diferentes verificamos que a base 'b' nos deu o valor de menor efiencia do algoritimo chegando a 0. Enquando na base 'a' o algoritmo conseguiu seu máximo de 1000. para as outras bases, 'c','d' e 'e', os valores mantiveram-se proximos tendo o maximo em 400 e o minimo em 300 para 'c' e 'd', respectivamente.#Analise de algoritmos 
 ./Peppe/imagem11#Figura 4: Consumo residencial de o de cada dia da semana. É possiver verificar que a segunda possui o menor consumo do dia. Tendo um crescente consumo no decorrer da semana até a quinta em que encontra o pico máximo de 700 unidades de consumo e decaindo paraaproximadamente 300 na sexta e sabado. #Consumo de energia eletrica./Peppe/imagem12#Gráfico mostrando aendidas e o total de transações#Mercado Financeiro
 ./Peppe/imagem12#No gráfico é demostrado 5 tipos diferentes de pontos utilizado no algoritmo por reforço em questão. Ações do tipo a recebem 910pontos, enquando ações b recebem 1100pontos, c recebem 650 pontos, d 900pontos e e 1400pontos. O algoritmo busca realizar uma ou mais ações de dê mais recompensas#Algoritmos
 ./Peppe/imagem13#No gráfico é demostrado outros 5 tipos diferentes de pontos utilizado no mesmo algoritmo por reforço em questão. Ações do tipo 'a' recebem agora menos pontos 300pontos, enquando ações 'b' recebem 410pontos, 'c' recebem 600 pontos, 'd' 1400pontos e 'e' 350pontos. O algoritmo busca realizar uma ou mais ações de dê mais recompensas#Algoritmos
@@ -30,22 +30,22 @@ imagem#legenda#Tipo
 ./Peppe/imagem28#Grafico de chapeu de bruxo. O ponto 'a' possui valor de 240, ponto 'b' valor de 260, ponto 'c', o pico do chapeu, com valor de 360 e o ponto 'd' 250 e 'e' com os mesmos 250.#Grafico
 ./Peppe/imagem29#Grafico começou com a letra 'a' tendo 400 unidades, subindo para 600 unidades na letra 'b', indo para -300 unidades na letra 'c'  e caindo ainda mais para -400 na letra 'd'. E finalmente na letra 'e' houve um acrescimo, saindo dos valores negativos, porem se mantendo em 300.#Generico
 ./Peppe/imagem30#Pesos de sincronização da criança 1 com o eva unidade 0 durande um ano. Sendo o somatorio. No primeiro semestre tivemos janeiro com 0, fevereiro com 100, março caiu para -500, abril sibiu para 0, e maio subiu novamente para mais de 1000, caindo em junho para -600. Finalmente no segundo semestre tivemos uma subida para -500 em julho, caindo em agosto para -1000 e zerando em setembro, porem nos dois meses seguintes houve uma queda para -500 e -550, respectivamente. Fechando o ano com um valor de 600 pontos.#NERV
-./Peppe/imagem31
-./Peppe/imagem32
-./Peppe/imagem33
-./Peppe/imagem34
-./Peppe/imagem35
-./Peppe/imagem36
-./Peppe/imagem37
-./Peppe/imagem38
-./Peppe/imagem39
-./Peppe/imagem40
+./Peppe/imagem31#Grafico começou com a letra 'a' tendo 450 unidades, caindo para 350 unidades na letra 'b', indo para 400 unidades na letra 'c'  e subindo ainda mais para 1200 na letra 'd'. E finalmente na letra 'e' houve um decrescimo, indo para valores negativos, porem se mantendo em -300.#Generico
+./Peppe/imagem32#A figura anterior mostra e compara o uso das letras do idioma Dothraki. Nele podemos veriricar que a letra 'e' possui um grande uso no idioma com mais de 1050 usos, considerando o texto que foi retirado. Em ultimo lugar temos a letra 'd'   que foi utilizado apenas 800 vezes. Da letra a até a letra c temos um decrescimento do uso de 'a' para 'b' e um crescimento para 'c' chegando a aproximadamente 920 vezes utilizadas#Alfabeto
+./Peppe/imagem33#No gráfico é demostrado outros 5 tipos diferentes de pontos utilizado no mesmo algoritmo por reforço em questão. Ações do tipo 'a' recebem agora menos pontos -750 pontos, enquando ações 'b' recebem -10 pontos, 'c' recebem 1255 pontos, 'd' 800pontos ,'e' 500pontos. O algoritmo busca realizar uma ou mais ações de dê mais recompensas#Algoritmos#Algoritmo
+./Peppe/imagem34#Uma pesquisa pela rede social W foi visto os dias mais populares, ou seja que as pessoas mais falam. Os valores no eixo y indicam o peso relativo ao numero de vezes que a palavra foi mencionada, da forma que quanto menos a palavra é mencionada menor é seu valor. Assim temos que a segunda com um valor de 100. Sendo a quarta com valor máximo com valor aproximado de 500. Ironicamente temos que os dias mais populares, sabado e domingo, entre as pessoas são os dias amados são os que tem valores 0.#Social
+./Peppe/imagem35##
+./Peppe/imagem36##
+./Peppe/imagem37##
+./Peppe/imagem38##
+./Peppe/imagem39##
+./Peppe/imagem40##
 ./Peppe/imagem41#Consumo energetico de cada dia da semana de um escritório em um dia atípico. A semana começa com um consumo baixo tendo o domingo 400 pontos. A segunda teve um ponto maximo de 1000pontos, caindo na terça para 600 pontos e subindo para 900 pontos na quarta. A quinta estava instavel como os outros dias e houve uma queda para 600pontos aindo novamente na sexta para 400 e no sabado para 200 pontos de consumo #Consumo de energia eletrica
-
-
-
+./Peppe/imagem42##
 ./Peppe/imagem43#Niveis de sincronização da criança 4 com o eva unidade 3 durande a semana. No domingo, primeiro dia de contato com a unidade, o nivel foi maximo chegando a 800 pontos, no dia seguinte houve uma queda para 600 pontos. Subindo para 900 pontos na terça e caindo bastante para 200 pontos de sincronização na quarta. Quinta subiu novamente para 800 pontos e novamente sexta feira subiu para o maximo de 1000pontos. Porém no sabado houve uma queda brusca para 50 pontos.#NERV
-
-
-./Peppe/imagem46#Grafico de credito energetico com a celpe na semana. Domingo ficou com credito positivo de 400 pontos, segunda com 450 pontos e terça com 410 pontos. Porém na quarta tem uma queda ficando negativo com -550 pontos. Subindo quinta para 400 pontos e voltando a cair na sexta com 200 pontos e fechando a semana com valor de -400 pontos. #Grafico
-./Peppe/imagem48##Grafico
+./Peppe/imagem44##
+./Peppe/imagem45##
+./Peppe/imagem46#Grafico de credito energetico com a celpe na semana. Domingo ficou com credito positivo de 400 pontos, segunda com 450 pontos e terça com 410 pontos. Porém na quarta tem uma queda ficando negativo com -550 pontos. Subindo quinta para 400 pontos e voltando a cair na sexta com 200 pontos e fechando a semana com valor de -400 pontos. #Credito energetico
+./Peppe/imagem47##
+./Peppe/imagem48#Grafico de credito energetico com a celpe na semana. Domingo ficou com credito positivo de 10 pontos, segunda com 500 pontos e caindo terça para -500 pontos. Porém na quarta tem uma subida ficando com 450 pontos. E caindo quinta para -550 pontos e voltando a subir na sexta com -200 pontos e fechando a semana com valor maximo de 1500 pontos. #Credito energetico
+./Peppe/49#Lucros total nos anos 2001 por uma empresa de médio porte. Começou Lucrando R$200Mil no ano 2000, passando por instabilidades que vai crescendo até o ano 2010. Em 2002 uma subida para R$1000Mil, caindo bruscamente em 2003 para -R$10Mil seguindo uma crescendo no ano seguinte fechando no valor de R$700Mil em 2010. Em 2004 subiu para -R$5Mil. Subindo novamente em 2005 para R$200Mil subindo novamente em 2006 para R$200Mil. Em 2007 uma subida brusca para R$700Mil, tendo uma queda em 2008 para R$650Mil e subindo novamente em 2009 para R$750#Mercado Financeiro
