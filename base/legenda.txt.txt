@@ -41,3 +41,11 @@ imagem#legenda#Tipo
 ./Peppe/imagem39
 ./Peppe/imagem40
 ./Peppe/imagem41#Consumo energetico de cada dia da semana de um escritório em um dia atípico. A semana começa com um consumo baixo tendo o domingo 400 pontos. A segunda teve um ponto maximo de 1000pontos, caindo na terça para 600 pontos e subindo para 900 pontos na quarta. A quinta estava instavel como os outros dias e houve uma queda para 600pontos aindo novamente na sexta para 400 e no sabado para 200 pontos de consumo #Consumo de energia eletrica
+
+
+
+./Peppe/imagem43#Niveis de sincronização da criança 4 com o eva unidade 3 durande a semana. No domingo, primeiro dia de contato com a unidade, o nivel foi maximo chegando a 800 pontos, no dia seguinte houve uma queda para 600 pontos. Subindo para 900 pontos na terça e caindo bastante para 200 pontos de sincronização na quarta. Quinta subiu novamente para 800 pontos e novamente sexta feira subiu para o maximo de 1000pontos. Porém no sabado houve uma queda brusca para 50 pontos.#NERV
+
+
+./Peppe/imagem46#Grafico de credito energetico com a celpe na semana. Domingo ficou com credito positivo de 400 pontos, segunda com 450 pontos e terça com 410 pontos. Porém na quarta tem uma queda ficando negativo com -550 pontos. Subindo quinta para 400 pontos e voltando a cair na sexta com 200 pontos e fechando a semana com valor de -400 pontos. #Grafico
+./Peppe/imagem48##Grafico
