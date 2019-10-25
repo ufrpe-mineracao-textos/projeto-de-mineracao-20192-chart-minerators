@@ -36,7 +36,7 @@ imagem#legenda#Tipo
 ./Peppe/imagem34#Uma pesquisa pela rede social W foi visto os dias mais populares, ou seja que as pessoas mais falam. Os valores no eixo y indicam o peso relativo ao numero de vezes que a palavra foi mencionada, da forma que quanto menos a palavra é mencionada menor é seu valor. Assim temos que a segunda com um valor de 100. Sendo a quarta com valor máximo com valor aproximado de 500. Ironicamente temos que os dias mais populares, sabado e domingo, entre as pessoas são os dias amados são os que tem valores 0.#Social
 ./Peppe/imagem35##
 ./Peppe/imagem36##
-./Peppe/imagem37##
+./Peppe/imagem37#Quantidades de acessos a um site por mês do ano. O ano começou com janeiro tendo 500 acessos, subindo em fevereiro para 950, desçendo em março de 450, tendo uma leve subida em abril para 600 e subindo novamente maio para 800. Junho fechou o primeiro semestre com valor de 850. O inicio do segundo semetre teve uma queda para 600 subindo para 650 em agosto e tendo um pico em setembro para 1000, caindo em outrubro fechando com 400 e subindo novamente para 500. Dezembro fechou o ano com uma subida para 700#Sites
 ./Peppe/imagem38##
 ./Peppe/imagem39##
 ./Peppe/imagem40#Valores que representam os gastos mensais de uma familia. Sendo os meses de março com R$400, abil com R$0, agosto R$200, e dezembro com R$100 não ficado no vermelho. Contudo alguns meses ficaram como  janeiro com -R$200, fevereiro com -R$300, maio com -R$800, junho com -R$200, julho -R$500, setembro -R$-100, outubro com -R$100, novembro -R$-600 #Financeiro
