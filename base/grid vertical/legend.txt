@@ -1,4 +1,0 @@
-imagem,legenda
-v01.jpg#0	desce,desce,desce,desce,desce,desce,desce
-v02.jpg#1	sobe,sobe,sobe,desce,sobe,sobe,desce,desce,sobe,desce,sobe,desce
-
